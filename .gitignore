@@ -1,0 +1,12 @@
+app.ico
+*.o
+*.res
+error-window.exe
+.vs/
+*.ipch
+*.sdf
+*.VC.db
+*.VC.opendb
+x64/
+Debug/
+Release/
